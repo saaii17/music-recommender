@@ -1,0 +1,201 @@
+song_name,artist,album,movie,genre,duration_sec,release_year,rating,popularity_score,mood,language,streams,audio_url
+Baarish Ban Jaana,Stebin Ben,Baarish Ban Jaana,Half Girlfriend,Bollywood,240,2017,4.8,95,Romantic,Hindi,450000000,https://example.com/audio/1.mp3
+Galliyan,Emiway Bantai,Azaad,Ek Villain,Bollywood,210,2014,4.9,98,Sad,Hindi,520000000,https://example.com/audio/2.mp3
+Tera Naam,Anirudh Ravichander,Tera Naam,Love Aaj Kal,Bollywood,195,2020,4.7,92,Romantic,Hindi,380000000,https://example.com/audio/3.mp3
+Tum Mile,Farhan Akhtar,Tum Mile,Socha Na Tha,Bollywood,265,2005,4.8,94,Romantic,Hindi,410000000,https://example.com/audio/4.mp3
+Aashiqui 2,Arijit Singh,Aashiqui 2,Aashiqui 2,Bollywood,225,2013,4.9,99,Romantic,Hindi,580000000,https://example.com/audio/5.mp3
+Sooraj Dooba Hain,Arijit Singh,Roy,Roy,Bollywood,235,2015,4.8,96,Romantic,Hindi,470000000,https://example.com/audio/6.mp3
+Kabira,Arijit Singh,Yeh Jawaani Hai Deewani,Yeh Jawaani Hai Deewani,Bollywood,245,2013,4.9,98,Romantic,Hindi,510000000,https://example.com/audio/7.mp3
+Naina Da Kya Kasoor,Arijit Singh,Andhadhun,Andhadhun,Bollywood,220,2018,4.8,97,Romantic,Hindi,490000000,https://example.com/audio/8.mp3
+Pehla Nasha,Udit Narayan,1942 A Love Story,1942 A Love Story,Bollywood,240,1994,4.7,91,Romantic,Hindi,320000000,https://example.com/audio/9.mp3
+Pal Pal Dil Ke Paas,Kumar Sanu,Pal Pal Dil Ke Paas,Pal Pal Dil Ke Paas,Bollywood,255,1994,4.6,89,Romantic,Hindi,280000000,https://example.com/audio/10.mp3
+Raastey Mein Teri,Atif Aslam,Masti,Masti,Bollywood,215,2004,4.5,85,Romantic,Hindi,250000000,https://example.com/audio/11.mp3
+Tujhe Bhula Diya,KK,Chandni Bar,Chandni Bar,Bollywood,280,2001,4.7,90,Romantic,Hindi,290000000,https://example.com/audio/12.mp3
+Dil Ke Paas Raho,Shamshad Begum,Ek Tha Raja,Ek Tha Raja,Bollywood,240,1951,4.5,80,Romantic,Hindi,150000000,https://example.com/audio/13.mp3
+Mere Sapnon Ki Rani,Rafi,Aradhana,Aradhana,Bollywood,240,1969,4.6,82,Romantic,Hindi,170000000,https://example.com/audio/14.mp3
+Lag Ja Gale,Lata Mangeshkar,Woh Kaun Thi,Woh Kaun Thi,Bollywood,220,1964,4.7,88,Romantic,Hindi,200000000,https://example.com/audio/15.mp3
+Chaiyya Chaiyya,A.R. Rahman,Dil Se,Dil Se,Bollywood,270,1998,4.8,93,Energetic,Hindi,380000000,https://example.com/audio/16.mp3
+Aaja Nachle,Sunidhi Chauhan,Aaja Nachle,Aaja Nachle,Bollywood,210,2007,4.6,84,Energetic,Hindi,220000000,https://example.com/audio/17.mp3
+Mundian To Bach Ke,Punjabi MC,Mundian To Bach Ke,Single,Punjabi,230,2002,4.5,83,Energetic,Hindi,310000000,https://example.com/audio/18.mp3
+Bulla Ki Jana,Kailash Kher,Rang De Basanti,Rang De Basanti,Bollywood,300,2006,4.7,87,Energetic,Hindi,270000000,https://example.com/audio/19.mp3
+Dhoom Taana,Shilpa Rao,Dhoom,Dhoom,Bollywood,210,2004,4.6,82,Energetic,Hindi,240000000,https://example.com/audio/20.mp3
+Duma Dum,Darshan Raval,Luka Chuppi,Luka Chuppi,Bollywood,225,2019,4.7,89,Energetic,Hindi,330000000,https://example.com/audio/21.mp3
+Kar Gayi Chull,Badshah,Kapoor & Sons,Kapoor & Sons,Bollywood,220,2016,4.6,86,Energetic,Hindi,290000000,https://example.com/audio/22.mp3
+One Two Three Four,Vishal Dadlani,Chennai Express,Chennai Express,Bollywood,235,2013,4.5,81,Energetic,Hindi,210000000,https://example.com/audio/23.mp3
+Badshah Ki Harkat,Ritviz,Gully Boy,Gully Boy,Bollywood,195,2019,4.7,88,Hip-Hop,Hindi,340000000,https://example.com/audio/24.mp3
+Apna Bana Le,Arijit Singh,Bhediya,Bhediya,Bollywood,240,2022,4.8,94,Romantic,Hindi,420000000,https://example.com/audio/25.mp3
+Mere Samne Wali Khidki,S.D. Burman,Padosan,Padosan,Bollywood,225,1974,4.6,83,Upbeat,Hindi,190000000,https://example.com/audio/26.mp3
+Tezaab Title Track,Lata Mangeshkar,Tezaab,Tezaab,Bollywood,245,1988,4.5,79,Energetic,Hindi,140000000,https://example.com/audio/27.mp3
+Haan Main Galat,Arijit Singh,Lucknow Central,Lucknow Central,Bollywood,220,2017,4.7,85,Melancholic,Hindi,260000000,https://example.com/audio/28.mp3
+Raabta,Deepika Padukone,Raabta,Raabta,Bollywood,235,2017,4.6,80,Romantic,Hindi,220000000,https://example.com/audio/29.mp3
+Gerua,Arijit Singh,Dilwale,Dilwale,Bollywood,245,2015,4.8,95,Romantic,Hindi,480000000,https://example.com/audio/30.mp3
+Prem Ratan Dhan Payo Title,Shreya Ghoshal,Prem Ratan Dhan Payo,Prem Ratan Dhan Payo,Bollywood,240,2015,4.5,78,Upbeat,Hindi,160000000,https://example.com/audio/31.mp3
+Chaleya,Arijit Singh,Jawan,Jawan,Bollywood,250,2023,4.8,96,Energetic,Hindi,500000000,https://example.com/audio/32.mp3
+Raatan Lambiyan,Jubin Nautiyal,Shershaah,Shershaah,Bollywood,230,2021,4.9,99,Romantic,Hindi,550000000,https://example.com/audio/33.mp3
+Baarish Mein Tum,Arijit Singh,Jaane Bhi Do Yaaro 2,Jaane Bhi Do Yaaro 2,Bollywood,220,2023,4.7,90,Romantic,Hindi,360000000,https://example.com/audio/34.mp3
+Chup Revenge of the Artist,Arijit Singh,Chup,Chup,Bollywood,215,2022,4.6,81,Melancholic,Hindi,240000000,https://example.com/audio/35.mp3
+Ram Chahe Leela,Shreya Ghoshal,Goliyon Ki Raasleela,Goliyon Ki Raasleela Ram-Leela,Bollywood,280,2013,4.8,93,Romantic,Hindi,420000000,https://example.com/audio/36.mp3
+Dilbaro,Harshdeep Kaur,Raazi,Raazi,Bollywood,225,2018,4.8,94,Romantic,Hindi,390000000,https://example.com/audio/37.mp3
+Bekhayali,Arjun Kanungo,Kabali,Kabali,Bollywood,240,2016,4.7,89,Romantic,Hindi,350000000,https://example.com/audio/38.mp3
+Tera Fitoor,Arijit Singh,Fitoor,Fitoor,Bollywood,235,2015,4.8,94,Romantic,Hindi,400000000,https://example.com/audio/39.mp3
+Bandhan Toड़ Un Bandhan,Shreya Ghoshal,Shuddh Desi Romance,Shuddh Desi Romance,Bollywood,215,2013,4.6,82,Romantic,Hindi,210000000,https://example.com/audio/40.mp3
+Tum Tak,Arijit Singh,Raazi,Raazi,Bollywood,225,2018,4.7,88,Romantic,Hindi,310000000,https://example.com/audio/41.mp3
+Itni Si Baat,Arijit Singh,Itni Si Baat,Itni Si Baat,Bollywood,220,2022,4.8,95,Romantic,Hindi,460000000,https://example.com/audio/42.mp3
+Dheeme Dheeme,Tony Kakkar,Dheeme Dheeme,Dheeme Dheeme,Bollywood,210,2018,4.5,76,Romantic,Hindi,380000000,https://example.com/audio/43.mp3
+Saiya Jaan Gayi,Darshan Raval,Happy Bhag Jayegi,Happy Bhag Jayegi,Bollywood,200,2016,4.4,72,Romantic,Hindi,160000000,https://example.com/audio/44.mp3
+Zaroorat,Arjun,Zaroorat,Zaroorat,Bollywood,235,2012,4.5,75,Romantic,Hindi,180000000,https://example.com/audio/45.mp3
+Ek Duje Ke Liye,Lata Mangeshkar,Ek Duje Ke Liye,Ek Duje Ke Liye,Bollywood,240,1981,4.7,86,Romantic,Hindi,220000000,https://example.com/audio/46.mp3
+Tumhe Apna Banane Ka,Lata Mangeshkar,Ek Duje Ke Liye,Ek Duje Ke Liye,Bollywood,215,1981,4.6,84,Romantic,Hindi,190000000,https://example.com/audio/47.mp3
+Pyar Do Pyar Lo,Lata Mangeshkar,Ek Duje Ke Liye,Ek Duje Ke Liye,Bollywood,230,1981,4.5,81,Romantic,Hindi,170000000,https://example.com/audio/48.mp3
+Hawa Hawai,Asha Parekh,Mr. India,Mr. India,Bollywood,255,1987,4.6,83,Upbeat,Hindi,230000000,https://example.com/audio/49.mp3
+Kyun Rabba,Akhil Sachdeva,Raees,Raees,Bollywood,240,2017,4.7,87,Romantic,Hindi,300000000,https://example.com/audio/50.mp3
+Janam Janam,Arijit Singh,Dilwale,Dilwale,Bollywood,245,2015,4.8,96,Romantic,Hindi,520000000,https://example.com/audio/51.mp3
+Aaj Phir Teri Yaad,Irshad Kamil,Aashiqui,Aashiqui,Bollywood,240,1990,4.6,85,Romantic,Hindi,250000000,https://example.com/audio/52.mp3
+Tere Liye,Atif Aslam,Life In A... Metro,Life in a Metro,Bollywood,230,2007,4.7,89,Romantic,Hindi,340000000,https://example.com/audio/53.mp3
+Hona Tha Pyar,Vishal Dadlani,RHTDM,Rab Ne Bana Di Jodi,Bollywood,220,2008,4.6,83,Romantic,Hindi,280000000,https://example.com/audio/54.mp3
+Jiye To Jiye Kaise,Talat Mahmood,Aas,Aas,Bollywood,245,1949,4.5,77,Romantic,Hindi,120000000,https://example.com/audio/55.mp3
+Jheel Ke Kinare,Lata Mangeshkar,Chandni,Chandni,Bollywood,235,1989,4.7,88,Romantic,Hindi,260000000,https://example.com/audio/56.mp3
+Bheegi Bheegi Raaton,Udit Narayan,Murder 2,Murder 2,Bollywood,215,2011,4.5,74,Romantic,Hindi,140000000,https://example.com/audio/57.mp3
+Maula Jatt,Sukhbir,Maula Jatt,Maula Jatt,Punjabi,200,2009,4.4,70,Energetic,Hindi,120000000,https://example.com/audio/58.mp3
+Psycho Saiyyan,Arijit Singh,Saaho,Saaho,Bollywood,225,2019,4.6,84,Energetic,Hindi,310000000,https://example.com/audio/59.mp3
+Lamhe Teri Yaad Ke,Arijit Singh,Lamhe,Lamhe,Bollywood,240,1991,4.7,89,Romantic,Hindi,270000000,https://example.com/audio/60.mp3
+Kuch Kuch Hota Hai,Sonu Nigam,Kuch Kuch Hota Hai,Kuch Kuch Hota Hai,Bollywood,225,1998,4.5,79,Romantic,Hindi,210000000,https://example.com/audio/61.mp3
+Tum Saath Ho,A.R. Rahman,Tamasha,Tamasha,Bollywood,245,2015,4.8,95,Romantic,Hindi,480000000,https://example.com/audio/62.mp3
+Yaad Piya Ki Aaye,Raag Desh,Yaad Piya Ki Aaye,Yaad Piya Ki Aaye,Bollywood,220,1945,4.4,68,Romantic,Hindi,90000000,https://example.com/audio/63.mp3
+Mohabbat Ki Jhutti,Lata Mangeshkar,Umrao Jaan,Umrao Jaan,Bollywood,240,1981,4.6,82,Romantic,Hindi,160000000,https://example.com/audio/64.mp3
+In Aankhon Ki Masti,Jagjit Singh,In Aankhon Ki Masti,In Aankhon Ki Masti,Bollywood,225,1981,4.7,86,Romantic,Hindi,190000000,https://example.com/audio/65.mp3
+Likhe Jo Khat Tume,Rolf Harris,Chandni,Chandni,Bollywood,250,1989,4.8,92,Romantic,Hindi,280000000,https://example.com/audio/66.mp3
+Dil To Pagal Hai,Udit Narayan,DTPH,Dil To Pagal Hai,Bollywood,235,1997,4.6,81,Romantic,Hindi,200000000,https://example.com/audio/67.mp3
+Yeh Raat Bheegi Bheegi,Geeta Dutt,CID,CID,Bollywood,240,1956,4.5,76,Romantic,Hindi,110000000,https://example.com/audio/68.mp3
+Acha Lagta Nahi,Mukesh,Pyaasa,Pyaasa,Bollywood,255,1957,4.7,85,Melancholic,Hindi,140000000,https://example.com/audio/69.mp3
+O Sanam Mere Sanam,Lata Mangeshkar,Badshaah,Badshaah,Bollywood,240,1988,4.6,80,Romantic,Hindi,150000000,https://example.com/audio/70.mp3
+Roop Tera Mastana,Lata Mangeshkar,Khuda Hafiz,Khuda Hafiz,Bollywood,220,1968,4.6,83,Romantic,Hindi,170000000,https://example.com/audio/71.mp3
+Baharon Phool Barsao,Lata Mangeshkar,Suraj,Suraj,Bollywood,235,1966,4.5,78,Upbeat,Hindi,120000000,https://example.com/audio/72.mp3
+Jaiho,A.R. Rahman,Slumdog Millionaire,Slumdog Millionaire,Bollywood,210,2008,4.7,87,Upbeat,Hindi,360000000,https://example.com/audio/73.mp3
+Jai Ho Ramesh Babu,Shreya Ghoshal,English Vinglish,English Vinglish,Bollywood,225,2012,4.5,77,Upbeat,Hindi,170000000,https://example.com/audio/74.mp3
+Agar Tum Mil Jao,Sunidhi Chauhan,Kaise Mujhe Tum Mil Gaye,Kaise Mujhe Tum Mil Gaye,Bollywood,240,2009,4.6,82,Romantic,Hindi,230000000,https://example.com/audio/75.mp3
+Tenu Leke Jaaunga,Pritam,Kal Ho Naa Ho,Kal Ho Naa Ho,Bollywood,235,2003,4.7,88,Romantic,Hindi,310000000,https://example.com/audio/76.mp3
+Kisi Disco Mein Jaaye,Badshah,Ullu Ka Pattha,Ullu Ka Pattha,Bollywood,210,2011,4.4,71,Energetic,Hindi,190000000,https://example.com/audio/77.mp3
+Aaj Mere Yaar Ki Shaadi,Suresh Wadkar,Aaj Mere Yaar Ki Shaadi,Aaj Mere Yaar Ki Shaadi,Bollywood,270,1985,4.5,75,Upbeat,Hindi,130000000,https://example.com/audio/78.mp3
+Jind Meri Jaan,Lata Mangeshkar,Khushi,Khushi,Bollywood,240,2003,4.6,81,Romantic,Hindi,180000000,https://example.com/audio/79.mp3
+Chandni O Meri Chandni,Lata Mangeshkar,Chandni,Chandni,Bollywood,245,1989,4.7,89,Romantic,Hindi,290000000,https://example.com/audio/80.mp3
+Din Ka Aaghaz Karte Hain,Rafi,Azaad,Azaad,Bollywood,215,1955,4.4,69,Upbeat,Hindi,85000000,https://example.com/audio/81.mp3
+Mere Naina Sawan Bade Natkhat,Lata Mangeshkar,Satyaprem Ki Katha,Satyaprem Ki Katha,Bollywood,240,2023,4.7,86,Romantic,Hindi,240000000,https://example.com/audio/82.mp3
+Tera Mera Saath Rahe,Lata Mangeshkar,Silsila,Silsila,Bollywood,235,1981,4.6,84,Romantic,Hindi,200000000,https://example.com/audio/83.mp3
+Mere Paas Aao,Lata Mangeshkar,Silsila,Silsila,Bollywood,220,1981,4.5,79,Romantic,Hindi,160000000,https://example.com/audio/84.mp3
+Mere Khyalon Mein Raat Din,Rafi,Phool Aur Patthar,Phool Aur Patthar,Bollywood,245,1966,4.6,82,Romantic,Hindi,140000000,https://example.com/audio/85.mp3
+Saat Samundar Paar,Lata Mangeshkar,Chandni Bar,Chandni Bar,Bollywood,240,1978,4.7,88,Romantic,Hindi,270000000,https://example.com/audio/86.mp3
+Bahon Mein Chale Aao,Lata Mangeshkar,Silsila,Silsila,Bollywood,225,1981,4.5,80,Romantic,Hindi,170000000,https://example.com/audio/87.mp3
+Maine Likha Hai,Asha Parekh,Ek Tha Raja,Ek Tha Raja,Bollywood,230,1951,4.4,73,Romantic,Hindi,100000000,https://example.com/audio/88.mp3
+Phir Milenge Chalte Chalte,Shamshad Begum,Footpath,Footpath,Bollywood,240,1953,4.3,65,Romantic,Hindi,75000000,https://example.com/audio/89.mp3
+Milte Hi Ankhen,Lata Mangeshkar,Pakeezah,Pakeezah,Bollywood,235,1972,4.7,87,Romantic,Hindi,220000000,https://example.com/audio/90.mp3
+Dil Kya Kare Jab Kisi Ko Pyar,Rafi,Anari,Anari,Bollywood,245,1959,4.5,78,Romantic,Hindi,105000000,https://example.com/audio/91.mp3
+Sapna Mera Toot Gaya,Rafi,Shaan,Shaan,Bollywood,240,1980,4.5,77,Melancholic,Hindi,125000000,https://example.com/audio/92.mp3
+Dil Se Teri Baat,Rafi,Do Raaste,Do Raaste,Bollywood,225,1969,4.4,72,Romantic,Hindi,95000000,https://example.com/audio/93.mp3
+Lamhe Teri Judayee Ke,Lata Mangeshkar,Pakeezah,Pakeezah,Bollywood,250,1972,4.6,83,Melancholic,Hindi,185000000,https://example.com/audio/94.mp3
+Raat Bhor,Lata Mangeshkar,Chandni,Chandni,Bollywood,240,1989,4.7,88,Romantic,Hindi,260000000,https://example.com/audio/95.mp3
+Zara Aa Gale Lagja,Lata Mangeshkar,Aradhana,Aradhana,Bollywood,235,1969,4.6,85,Romantic,Hindi,210000000,https://example.com/audio/96.mp3
+Ab Ke Baras,Lata Mangeshkar,Umrao Jaan,Umrao Jaan,Bollywood,245,1981,4.7,87,Romantic,Hindi,240000000,https://example.com/audio/97.mp3
+Tumne Sanam Banaya,Lata Mangeshkar,Pakeezah,Pakeezah,Bollywood,230,1972,4.6,84,Romantic,Hindi,200000000,https://example.com/audio/98.mp3
+Aaj Rapat Jaye,Lata Mangeshkar,Silsila,Silsila,Bollywood,220,1981,4.5,80,Romantic,Hindi,160000000,https://example.com/audio/99.mp3
+Kahe Toh Bheegi Bhaagi,Asha Parekh,Hera Pheri,Hera Pheri,Bollywood,235,1976,4.5,76,Upbeat,Hindi,110000000,https://example.com/audio/100.mp3
+Dilbar Dilbar,Sushmita Sen,Sirf Tum,Sirf Tum,Bollywood,220,1999,4.6,83,Upbeat,Hindi,290000000,https://example.com/audio/101.mp3
+Abhi Na Jao Chhod Kar,Rafi,Hera Pheri,Hera Pheri,Bollywood,245,1976,4.6,82,Romantic,Hindi,170000000,https://example.com/audio/102.mp3
+Chhalka Chhalke,Lata Mangeshkar,Silsila,Silsila,Bollywood,235,1981,4.5,79,Romantic,Hindi,145000000,https://example.com/audio/103.mp3
+Kya Hua Tera Vada,Rafi,Hera Pheri,Hera Pheri,Bollywood,240,1976,4.7,86,Romantic,Hindi,210000000,https://example.com/audio/104.mp3
+Yeh Ladki Pagal Deewani Hai,Lata Mangeshkar,Silsila,Silsila,Bollywood,225,1981,4.4,74,Upbeat,Hindi,130000000,https://example.com/audio/105.mp3
+Jaise Suraj Ka Ujala,Mukesh,Pakeezah,Pakeezah,Bollywood,240,1972,4.5,77,Upbeat,Hindi,110000000,https://example.com/audio/106.mp3
+Raina Beeti Jaye,Talat Mahmood,Aas,Aas,Bollywood,250,1949,4.4,66,Romantic,Hindi,70000000,https://example.com/audio/107.mp3
+Yahan Behta Tha,Rafi,Pakeezah,Pakeezah,Bollywood,245,1972,4.5,78,Melancholic,Hindi,125000000,https://example.com/audio/108.mp3
+Hum Rahe Hain Khusiyayen,Lata Mangeshkar,Pakeezah,Pakeezah,Bollywood,235,1972,4.6,81,Romantic,Hindi,155000000,https://example.com/audio/109.mp3
+Thandi Hawayen,Rafi,Umrao Jaan,Umrao Jaan,Bollywood,240,1981,4.6,83,Romantic,Hindi,185000000,https://example.com/audio/110.mp3
+Aaj Phir Teri Yaad,Asha Parekh,Aashiqui,Aashiqui,Bollywood,245,1990,4.7,87,Romantic,Hindi,270000000,https://example.com/audio/111.mp3
+Tere Bina Zindagi,Udit Narayan,Murder,Murder,Bollywood,220,2004,4.5,75,Romantic,Hindi,140000000,https://example.com/audio/112.mp3
+Dil Dheere Chalne Laga,Sunidhi Chauhan,Lakshya,Lakshya,Bollywood,240,2004,4.6,80,Romantic,Hindi,190000000,https://example.com/audio/113.mp3
+Iss Qadar Pyar,Atif Aslam,Raees,Raees,Bollywood,225,2017,4.7,88,Romantic,Hindi,340000000,https://example.com/audio/114.mp3
+Tum Tak,Arijit Singh,Raazi,Raazi,Bollywood,220,2018,4.8,96,Romantic,Hindi,450000000,https://example.com/audio/115.mp3
+Aaj Haan Bolkar Dekh,Lata Mangeshkar,Zamaana,Zamaana,Bollywood,235,1975,4.4,71,Romantic,Hindi,90000000,https://example.com/audio/116.mp3
+Tukur Tukur Dekh Raha,Lata Mangeshkar,Silsila,Silsila,Bollywood,240,1981,4.5,79,Romantic,Hindi,155000000,https://example.com/audio/117.mp3
+Chali Nahi Ayi Jhooth Bolun,Rafi,Naya Daur,Naya Daur,Bollywood,250,1957,4.5,74,Upbeat,Hindi,85000000,https://example.com/audio/118.mp3
+Mera Naam Hai Asha,Asha Parekh,Dilli Ka Thug,Dilli Ka Thug,Bollywood,225,1958,4.3,68,Romantic,Hindi,65000000,https://example.com/audio/119.mp3
+Chahe Rahe Duniya,Rafi,Bandhan,Bandhan,Bollywood,240,1965,4.5,77,Romantic,Hindi,110000000,https://example.com/audio/120.mp3
+Jab Tak Hai Jaan,Sonu Nigam,Jab Tak Hai Jaan,Jab Tak Hai Jaan,Bollywood,245,2012,4.8,94,Romantic,Hindi,410000000,https://example.com/audio/121.mp3
+Ishq Wala Love,Ranveer Singh,Band Baaja Baaraat,Band Baaja Baaraat,Bollywood,220,2011,4.5,77,Upbeat,Hindi,220000000,https://example.com/audio/122.mp3
+Chikni Chameli,Shreya Ghoshal,Agneepath,Agneepath,Bollywood,200,2012,4.5,74,Energetic,Hindi,180000000,https://example.com/audio/123.mp3
+Dil Bole Hadippa,Sonu Nigam,Dil Bole Hadippa,Dil Bole Hadippa,Bollywood,240,2009,4.5,76,Upbeat,Hindi,160000000,https://example.com/audio/124.mp3
+I Love You Ki Love Story,Shreya Ghoshal,Raees,Raees,Bollywood,215,2017,4.5,73,Romantic,Hindi,140000000,https://example.com/audio/125.mp3
+Mere Pyare Sapne,Shaan,Khanna,Khanna,Bollywood,235,2007,4.4,70,Romantic,Hindi,120000000,https://example.com/audio/126.mp3
+Pyar Ka Rog,Atif Aslam,Taal,Taal,Bollywood,240,1999,4.6,82,Romantic,Hindi,210000000,https://example.com/audio/127.mp3
+Dil Ke Armaan,Arijit Singh,Deewangee,Deewangee,Bollywood,220,2005,4.5,75,Romantic,Hindi,130000000,https://example.com/audio/128.mp3
+Tujhe Surah Tha,Arijit Singh,Gandii Baat,Gandii Baat,Bollywood,225,2015,4.6,79,Romantic,Hindi,170000000,https://example.com/audio/129.mp3
+Tum Se Milna,Darshan Raval,Piku,Piku,Bollywood,240,2015,4.7,84,Romantic,Hindi,260000000,https://example.com/audio/130.mp3
+Neha Kakkar Phir Se Yaad,Neha Kakkar,Prem Ratan Dhan Payo,Prem Ratan Dhan Payo,Bollywood,220,2015,4.4,68,Romantic,Hindi,130000000,https://example.com/audio/131.mp3
+Kabhii Naa Kabhii,Atif Aslam,Murder 2,Murder 2,Bollywood,245,2011,4.5,76,Romantic,Hindi,150000000,https://example.com/audio/132.mp3
+Yaad Aa Raha Hai,Arijit Singh,Tum Bin,Tum Bin,Bollywood,235,2001,4.7,86,Romantic,Hindi,240000000,https://example.com/audio/133.mp3
+Tere Sang Yaara,Atif Aslam,Rustom,Rustom,Bollywood,240,2016,4.8,95,Romantic,Hindi,420000000,https://example.com/audio/134.mp3
+Chahun Main Ya Naa,Vishal Dadlani,Aashiqui 2,Aashiqui 2,Bollywood,225,2013,4.8,94,Romantic,Hindi,380000000,https://example.com/audio/135.mp3
+Kab Se Ho Gaye Hum Tere,Arijit Singh,Aashiqui,Aashiqui,Bollywood,240,1990,4.7,87,Romantic,Hindi,280000000,https://example.com/audio/136.mp3
+Rut Badalti Hai,Arijit Singh,Life of Pi,Life of Pi,Bollywood,215,2012,4.6,81,Romantic,Hindi,200000000,https://example.com/audio/137.mp3
+Tum Nahi Ho Sakoge Kamaal,Atif Aslam,Bet Your Life,Bet Your Life,Bollywood,230,2012,4.5,74,Romantic,Hindi,130000000,https://example.com/audio/138.mp3
+Saans,Shreya Ghoshal,Jab Tak Hai Jaan,Jab Tak Hai Jaan,Bollywood,245,2012,4.8,94,Romantic,Hindi,400000000,https://example.com/audio/139.mp3
+Marjani,Arijit Singh,Roy,Roy,Bollywood,240,2015,4.7,86,Romantic,Hindi,300000000,https://example.com/audio/140.mp3
+Suna Hai,Arijit Singh,Raees,Raees,Bollywood,220,2017,4.6,80,Romantic,Hindi,210000000,https://example.com/audio/141.mp3
+Firaak,Arijit Singh,Raees,Raees,Bollywood,235,2017,4.7,85,Melancholic,Hindi,270000000,https://example.com/audio/142.mp3
+Tere Naam,Atif Aslam,Tere Naam,Tere Naam,Bollywood,240,2003,4.7,88,Romantic,Hindi,320000000,https://example.com/audio/143.mp3
+Kabhi Kabhi,Mukesh,Kabhi Kabhi,Kabhi Kabhi,Bollywood,250,1976,4.7,87,Romantic,Hindi,280000000,https://example.com/audio/144.mp3
+Mere Paas Tum Ho,Raag Desh,Meri Awaaz Suno,Meri Awaaz Suno,Bollywood,240,1981,4.6,82,Romantic,Hindi,200000000,https://example.com/audio/145.mp3
+Teri Khushboo,Arijit Singh,Loafer,Loafer,Bollywood,220,2015,4.6,80,Romantic,Hindi,190000000,https://example.com/audio/146.mp3
+Tera Hone Laga Hoon,Atif Aslam,Ajab Prem Ki Ghazab Kahani,Ajab Prem Ki Ghazab Kahani,Bollywood,240,2009,4.7,86,Romantic,Hindi,310000000,https://example.com/audio/147.mp3
+Bekhudi,Arijit Singh,Raees,Raees,Bollywood,225,2017,4.7,87,Romantic,Hindi,290000000,https://example.com/audio/148.mp3
+Dheere Dheere Se,Arijit Singh,Chandni,Chandni,Bollywood,235,1989,4.8,95,Romantic,Hindi,440000000,https://example.com/audio/149.mp3
+Mujhe Neend Na Aaye,Atif Aslam,MS Dhoni,MS Dhoni: The Untold Story,Bollywood,245,2016,4.7,85,Romantic,Hindi,260000000,https://example.com/audio/150.mp3
+Rishta Tera Mera,Arijit Singh,Rishta Tera Mera,Rishta Tera Mera,Bollywood,220,2009,4.6,79,Romantic,Hindi,180000000,https://example.com/audio/151.mp3
+Teri Aankhon Mein,Arijit Singh,Zareen Khan,Zareen Khan,Bollywood,240,2017,4.7,84,Romantic,Hindi,280000000,https://example.com/audio/152.mp3
+Raaste Raaste,Arijit Singh,Raees,Raees,Bollywood,225,2017,4.6,81,Romantic,Hindi,220000000,https://example.com/audio/153.mp3
+Tujhe Shukriya,Atif Aslam,Lonely,Lonely,Bollywood,230,2012,4.6,80,Romantic,Hindi,200000000,https://example.com/audio/154.mp3
+Raina Beeti,Arijit Singh,Yeh Jawaani Hai Deewani,Yeh Jawaani Hai Deewani,Bollywood,240,2013,4.8,93,Romantic,Hindi,380000000,https://example.com/audio/155.mp3
+Mere Dil Ko Shaanti,Arijit Singh,Zindagi Imli Hai,Zindagi Imli Hai,Bollywood,220,2011,4.5,75,Romantic,Hindi,140000000,https://example.com/audio/156.mp3
+Tere Naal Love Ho Gaya,Atif Aslam,Tera Hero,Tera Hero,Bollywood,235,2014,4.6,82,Romantic,Hindi,230000000,https://example.com/audio/157.mp3
+Badla Teri Teri Khushboo,Arijit Singh,Kaam 25,Kaam 25,Bollywood,240,2012,4.5,76,Romantic,Hindi,160000000,https://example.com/audio/158.mp3
+Mohabbat Karne Wale,Arijit Singh,Mohabbat Karne Wale,Mohabbat Karne Wale,Bollywood,225,2009,4.6,81,Romantic,Hindi,210000000,https://example.com/audio/159.mp3
+Tere Liye Main,Arijit Singh,Zindagi Se Zyada Khaas,Zindagi Se Zyada Khaas,Bollywood,230,2013,4.7,84,Romantic,Hindi,260000000,https://example.com/audio/160.mp3
+Tujhe Dekh Dekh,Arijit Singh,Raees,Raees,Bollywood,240,2017,4.8,96,Romantic,Hindi,500000000,https://example.com/audio/161.mp3
+Mere Armaan,Arijit Singh,Bet Your Life,Bet Your Life,Bollywood,220,2012,4.6,80,Romantic,Hindi,200000000,https://example.com/audio/162.mp3
+Teri Marzi,Arijit Singh,Marzi,Marzi,Bollywood,235,2013,4.7,85,Romantic,Hindi,270000000,https://example.com/audio/163.mp3
+Ek Ladki Ko Dekha,Arijit Singh,1942 A Love Story,1942 A Love Story,Bollywood,240,1994,4.7,88,Romantic,Hindi,310000000,https://example.com/audio/164.mp3
+Suna Hai Phir Bhi,Arijit Singh,Raees,Raees,Bollywood,225,2017,4.6,82,Romantic,Hindi,240000000,https://example.com/audio/165.mp3
+Rishtey Mein Tum,Arijit Singh,Rishtey Mein Tum,Rishtey Mein Tum,Bollywood,240,2015,4.7,87,Romantic,Hindi,300000000,https://example.com/audio/166.mp3
+Tujhe Shukriya Dil Se,Arijit Singh,Tujhe Shukriya,Tujhe Shukriya,Bollywood,220,2011,4.6,81,Romantic,Hindi,220000000,https://example.com/audio/167.mp3
+Yahan Behta Tha Raag,Arijit Singh,Pakeezah,Pakeezah,Bollywood,235,1972,4.8,94,Romantic,Hindi,390000000,https://example.com/audio/168.mp3
+Teri Aankhon Mein Sama,Arijit Singh,Lamhe,Lamhe,Bollywood,240,1991,4.7,86,Romantic,Hindi,280000000,https://example.com/audio/169.mp3
+Mere Armaan Ki,Arijit Singh,Mere Armaan Ki,Mere Armaan Ki,Bollywood,225,2010,4.6,80,Romantic,Hindi,200000000,https://example.com/audio/170.mp3
+Tukur Tukur,Arijit Singh,Dilwale,Dilwale,Bollywood,240,2015,4.8,95,Romantic,Hindi,430000000,https://example.com/audio/171.mp3
+Tere Bina,Arijit Singh,Luka Chuppi,Luka Chuppi,Bollywood,220,2019,4.7,88,Romantic,Hindi,340000000,https://example.com/audio/172.mp3
+Bekarar Banaya,Arijit Singh,Bekarar Banaya,Bekarar Banaya,Bollywood,235,2013,4.6,82,Romantic,Hindi,250000000,https://example.com/audio/173.mp3
+Tere Naam Raha,Arijit Singh,Tere Naam,Tere Naam,Bollywood,240,2003,4.8,94,Romantic,Hindi,400000000,https://example.com/audio/174.mp3
+Yaad Hai Tujhe,Arijit Singh,Yaad Hai Tujhe,Yaad Hai Tujhe,Bollywood,225,2012,4.7,85,Romantic,Hindi,270000000,https://example.com/audio/175.mp3
+Ek Samay Tha,Arijit Singh,Ek Samay Tha,Ek Samay Tha,Bollywood,240,2014,4.6,81,Romantic,Hindi,210000000,https://example.com/audio/176.mp3
+Dilbara,Arijit Singh,Dilbara,Dilbara,Bollywood,220,2015,4.8,96,Romantic,Hindi,480000000,https://example.com/audio/177.mp3
+Tere Bina Jeena,Arijit Singh,Tere Bina Jeena,Tere Bina Jeena,Bollywood,235,2013,4.7,87,Romantic,Hindi,300000000,https://example.com/audio/178.mp3
+Mere Pyar Ke Bina,Arijit Singh,Mere Pyar Ke Bina,Mere Pyar Ke Bina,Bollywood,240,2011,4.6,82,Romantic,Hindi,240000000,https://example.com/audio/179.mp3
+Teri Kasam,Arijit Singh,Teri Kasam,Teri Kasam,Bollywood,225,2016,4.8,95,Romantic,Hindi,450000000,https://example.com/audio/180.mp3
+Tujhe Dil Se Pyar,Arijit Singh,Tujhe Dil Se Pyar,Tujhe Dil Se Pyar,Bollywood,240,2010,4.7,86,Romantic,Hindi,280000000,https://example.com/audio/181.mp3
+Mere Samne Wali Khidkii,Arijit Singh,Mere Samne,Mere Samne,Bollywood,220,2009,4.6,80,Romantic,Hindi,200000000,https://example.com/audio/182.mp3
+Teri Akhon Mein,Arijit Singh,Teri Akhon Mein,Teri Akhon Mein,Bollywood,235,2012,4.8,94,Romantic,Hindi,390000000,https://example.com/audio/183.mp3
+Tere Liye Raat Din,Arijit Singh,Tere Liye,Tere Liye,Bollywood,240,2014,4.7,87,Romantic,Hindi,310000000,https://example.com/audio/184.mp3
+Dilbar Dilbar Mera,Arijit Singh,Dilbar,Dilbar,Bollywood,225,2018,4.8,96,Romantic,Hindi,520000000,https://example.com/audio/185.mp3
+Tujhe Main Tadpave,Arijit Singh,Tujhe Main,Tujhe Main,Bollywood,240,2015,4.6,81,Romantic,Hindi,220000000,https://example.com/audio/186.mp3
+Teri Yaadon Mein,Arijit Singh,Teri Yaadon Mein,Teri Yaadon Mein,Bollywood,220,2013,4.8,95,Romantic,Hindi,440000000,https://example.com/audio/187.mp3
+Tere Bina Duniya,Arijit Singh,Tere Bina Duniya,Tere Bina Duniya,Bollywood,235,2011,4.7,86,Romantic,Hindi,290000000,https://example.com/audio/188.mp3
+Mere Dil Ko Bhula,Arijit Singh,Mere Dil,Mere Dil,Bollywood,240,2012,4.6,82,Romantic,Hindi,240000000,https://example.com/audio/189.mp3
+Teri Khushboo Mein,Arijit Singh,Teri Khushboo,Teri Khushboo,Bollywood,225,2014,4.8,94,Romantic,Hindi,400000000,https://example.com/audio/190.mp3
+Tujhe Yaad Karte,Arijit Singh,Tujhe Yaad,Tujhe Yaad,Bollywood,240,2016,4.7,85,Romantic,Hindi,270000000,https://example.com/audio/191.mp3
+Dil Mere Paas Aao,Arijit Singh,Dil Mere,Dil Mere,Bollywood,220,2013,4.6,81,Romantic,Hindi,210000000,https://example.com/audio/192.mp3
+Tere Ang Ang Mein,Arijit Singh,Tere Ang,Tere Ang,Bollywood,235,2015,4.8,96,Romantic,Hindi,500000000,https://example.com/audio/193.mp3
+Teri Baat Karte Ho,Arijit Singh,Teri Baat,Teri Baat,Bollywood,240,2012,4.7,87,Romantic,Hindi,310000000,https://example.com/audio/194.mp3
+Mere Saath Raho,Arijit Singh,Mere Saath,Mere Saath,Bollywood,225,2014,4.6,82,Romantic,Hindi,240000000,https://example.com/audio/195.mp3
+Tujhe Chahe Aankhen,Arijit Singh,Tujhe Chahe,Tujhe Chahe,Bollywood,240,2017,4.8,95,Romantic,Hindi,450000000,https://example.com/audio/196.mp3
+Dil Se Bolo,Arijit Singh,Dil Se,Dil Se,Bollywood,220,2011,4.7,86,Romantic,Hindi,280000000,https://example.com/audio/197.mp3
+Tere Sang Hoon Main,Arijit Singh,Tere Sang,Tere Sang,Bollywood,235,2013,4.6,81,Romantic,Hindi,220000000,https://example.com/audio/198.mp3
+Teri Yad Aave,Arijit Singh,Teri Yad,Teri Yad,Bollywood,240,2015,4.8,94,Romantic,Hindi,390000000,https://example.com/audio/199.mp3
+Tujhe Dekha Toh,Arijit Singh,Tujhe Dekha,Tujhe Dekha,Bollywood,225,2012,4.7,87,Romantic,Hindi,300000000,https://example.com/audio/200.mp3
